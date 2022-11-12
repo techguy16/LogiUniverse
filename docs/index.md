@@ -1,5 +1,5 @@
 ---
-title: Solaar
+title: LogiUniverse
 layout: default
 ---
 
