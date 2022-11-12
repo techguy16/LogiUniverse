@@ -1,10 +1,10 @@
-title: Solaar
-description: Linux Device Manager for Logitech Unifying Receivers and Devices.
-tagline: Linux Device Manager for Logitech Unifying Receivers and Devices.
-owner: pwr-Solaar
-owner_url: https://github.com/pwr-Solaar
-repository: pwr-Solaar/Solaar
-version: 1.1.7
+title: LogiUniverse
+description: Device Manager for Logitech Unifying Receivers and Devices.
+tagline: Device Manager for Logitech Unifying Receivers and Devices.
+owner: techguy16
+owner_url: https://github.com/techguy16
+repository: techguy16/LogiUniverse
+version: 1.0.0
 show_downloads: false
 encoding: utf-8
 theme: jekyll-theme-slate
